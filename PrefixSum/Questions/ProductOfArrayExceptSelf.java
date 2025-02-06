@@ -18,3 +18,20 @@ public class ProductOfArrayExceptSelf {
         return nums;
     }
 }
+/*Alternate Solution-
+public int[] productExceptSelf(int[] nums) {
+        int n=nums.length;
+        int[] pre=new int[n];
+        pre[0]=1;
+        for(int i=1;i<n;i++){
+            pre[i]=pre[i-1]*nums[i-1];
+        }
+        int val=1;
+
+        for(int i=n-2;i>=0;i--){
+            val=nums[i+1]*val;
+            pre[i]=val*pre[i];
+        }
+        return pre;
+    }
+ */
