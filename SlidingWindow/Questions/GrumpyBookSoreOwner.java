@@ -1,3 +1,4 @@
+//Problem Link-https://leetcode.com/problems/grumpy-bookstore-owner/description/
 public class GrumpyBookSoreOwner {
     public int maxSatisfied(int[] customers, int[] grumpy, int minutes) {
         int unsat=0,max=0,j=minutes-1,i=0;
