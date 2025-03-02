@@ -1,7 +1,6 @@
 //Problem Link-https://leetcode.com/problems/subsets-ii/?envType=problem-list-v2&envId=bit-manipulation
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class SubsetsII {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
