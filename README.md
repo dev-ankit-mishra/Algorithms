@@ -47,7 +47,7 @@ This is a personal learning repository. If you're interested in contributing mor
 
 ## 📬 Contact
 
-📧 developer.ankitmishra@gmail.com  
+📧 contact@ankitmishra.pro  
 🔗 [LinkedIn](https://www.linkedin.com/in/ankitmishra-pro)  
 🌐 [Portfolio](https://ankitmishra.pro)
 
